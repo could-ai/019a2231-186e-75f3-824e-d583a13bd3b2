@@ -1,16 +1,20 @@
-# couldai_user_app
+# ecoscience_foundation
 
-A new Flutter project.
+Ecoscience Foundation International - AI, Energy, Space & Satellites
+
+## About
+
+This Flutter application serves as the official app for Ecoscience Foundation International, showcasing our work in advancing environmental science through cutting-edge technology including Artificial Intelligence, sustainable Energy solutions, Space technology, and Satellite systems.
+
+## Features
+
+- **AI**: Environmental monitoring and prediction using artificial intelligence
+- **Energy**: Sustainable energy solutions for a greener future
+- **Space**: Space technology for global environmental observation
+- **Satellites**: Real-time earth monitoring through satellite systems
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the Ecoscience Foundation International Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
